@@ -1,0 +1,2 @@
+# alkmat
+Alkalmazott matematika
