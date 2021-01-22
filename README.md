@@ -1,6 +1,6 @@
 # Alkalmazott matematika
 
-https://regi.tankonyvtar.hu/hu/tartalom/tamop425/0008_szalkai_dosa_szamelmelet/adatok.html
+https://regi.tankonyvtar.hu/hu/tartalom/tamop425/0008_szalkai_dosa_szamelmelet/adatok.html illetve sok jó leírás itt: https://youproof.hu/blog/
 
 # számológépek számítások ellenőrzéséhez:
 
